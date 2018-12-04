@@ -1,0 +1,15 @@
+{
+  "name": "rails_6_example",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "https://github.com/rails/webpacker",
+    "actioncable": ">=5.2.1",
+    "activestorage": ">=5.2.1",
+    "rails-ujs": ">=5.2.1",
+    "turbolinks": "5.1.1"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^3.1.10"
+  }
+}
